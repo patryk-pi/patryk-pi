@@ -3,6 +3,7 @@
 
 # Demos:
 <p>Smartspend (app to track your household's spendings): https://smart-spend.netlify.app/</p>
+<p>Jaworsk Music (DJ's business page): https://jaworski-music.netlify.app/</p>
 <p>To Do List: https://to-do-list-ts-patryk-pi.netlify.app/</p>
 <p>Best-Shop (page for fictional online shop): https://best-shop-patryk-pi.netlify.app/</p>
 <p>Wrapped-green (landing page for fictional restaurant): https://wrapped-green-patryk-pi.netlify.app/</p>
