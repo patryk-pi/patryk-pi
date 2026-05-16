@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Patryk</h1>
-<h3 align="center">A passionate frontend developer from Poland. Currently looking for job as Junior Frontend Developer.</h3>
+<h3 align="center">Data Analyst (Former Front-End Developer) </h3>
 
 # Demos:
 <p>Smartspend (app to track your household's spendings): https://smart-spend.netlify.app/</p>
@@ -16,7 +16,6 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=patryk-pi&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=patryk-pi&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
----
-[![](https://visitcount.itsvg.in/api?id=patryk-pi&icon=0&color=0)](https://visitcount.itsvg.in)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
